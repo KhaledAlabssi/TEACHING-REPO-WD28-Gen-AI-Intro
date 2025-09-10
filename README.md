@@ -10,7 +10,7 @@
 - strucured response
 
 ## Homework:
-### Generate Insta/LinkedIn Post:
+### Generate Blog:
 - Generate blog from user input:
     - User input (prompt, number of paragraphs/sections)
     - Structured response (title, paragraphs, tags, prompt for blog main image, prompt for sub-images)
